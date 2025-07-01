@@ -1,0 +1,1 @@
+from utils.passwordmgr import Hash
